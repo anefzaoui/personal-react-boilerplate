@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:200,400,500');
+/* ==========================================================================
+  Basic CSS styles
+  ========================================================================== */
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  color: #222;
+  font-size: 12px;
+  background-color: #FAFAFA;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* ==========================================================================
+  Helper classes
+  ========================================================================== */
+
+.hidden {
+  display: none !important;
+  visibility: hidden;
+}
+
+/* Clearfix
+* Adding a 'clearfix' class will allow parent elements to contain a floated child element
+*/
+
+.clearfix:before,
+.clearfix:after {
+  content: " ";
+  /* 1 */
+  display: table;
+  /* 2 */
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+/*
+* For IE 6/7 only
+* Include this rule to trigger hasLayout and contain floats.
+*/
+
+.clearfix {
+  *zoom: 1;
+}
+
+/* ==========================================================================
+  Custom CSS styles
+  ========================================================================== */
