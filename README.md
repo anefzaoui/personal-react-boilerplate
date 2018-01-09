@@ -4,7 +4,7 @@ This is my personal React.js boilerplate.
 
 ## Intro
 
-JavaScript environment should be easy to set up, just like 2000-2010 when you just open notepad and start coding.
+JavaScript environment setup should be easy to set up, just like 2000-2010 when you just open notepad and start coding.
 
 I started this little project after investing a lot of time trying to find the "perfect" react starter kit. Each one I find on Github is either outdated (in which case I am too lazy to refactor its code and update it 😜) or it's an over-engineered/complicated boilerplate that has tons of things I don't need. When I just need to save some time of initializing webpack, babel and react.
 
