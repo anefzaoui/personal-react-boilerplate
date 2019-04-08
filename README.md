@@ -21,7 +21,7 @@ Just kidding there's React, Babel, Webpack, and Express (for a local server inst
 
 ## Code
 
-The proect's structure consists of two main folders:
+The project's structure consists of two main folders:
 
 1. `src/app`: the code directory.
 2. `src/public`: the build directory.
